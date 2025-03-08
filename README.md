@@ -11,8 +11,8 @@ It a fork of [MetaDarkStyle](https://github.com/zamtmn/metadarkstyle)
 
 <details>
   <summary>Screenshots/Preview</summary>
-  <img src="https://github.com/zamtmn/metadarkstyle/blob/main/docs/2.png" />
-  <img src="https://github.com/zamtmn/metadarkstyle/blob/main/docs/1.png" />
+  <img src="https://raw.githubusercontent.com/bigbear2/MetaDarkStyle/refs/heads/main/docs/dark1.jpg" />
+  <img src="https://raw.githubusercontent.com/bigbear2/MetaDarkStyle/refs/heads/main/docs/dark2.jpg" />
 </details>
 
 ## Tested On
